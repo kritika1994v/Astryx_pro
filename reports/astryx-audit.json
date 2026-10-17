@@ -1,0 +1,331 @@
+{
+  "scannedFiles": 10,
+  "nativeElements": [
+    {
+      "file": "src\\app\\layout.js",
+      "line": 27,
+      "element": "body",
+      "suggestedAstryxComponents": [],
+      "reason": "Native HTML <body> detected. Review whether this native element is necessary."
+    },
+    {
+      "file": "src\\app\\layout.js",
+      "line": 23,
+      "element": "html",
+      "suggestedAstryxComponents": [],
+      "reason": "Native HTML <html> detected. Review whether this native element is necessary."
+    }
+  ],
+  "cssFiles": [
+    "src\\app\\globals.css",
+    "src\\app\\page.css"
+  ],
+  "inlineStyles": [
+    {
+      "file": "src\\app\\profile\\page.tsx",
+      "line": 134
+    },
+    {
+      "file": "src\\app\\profile\\page.tsx",
+      "line": 156
+    },
+    {
+      "file": "src\\app\\profile\\page.tsx",
+      "line": 188
+    },
+    {
+      "file": "src\\app\\profile\\page.tsx",
+      "line": 200
+    }
+  ],
+  "astryxImports": [
+    {
+      "file": "src\\app\\about\\page.tsx",
+      "statement": "import { Section } from '@astryxdesign/core/Section'"
+    },
+    {
+      "file": "src\\app\\about\\page.tsx",
+      "statement": "import { Card } from '@astryxdesign/core/Card'"
+    },
+    {
+      "file": "src\\app\\about\\page.tsx",
+      "statement": "import { VStack, HStack } from '@astryxdesign/core/Layout'"
+    },
+    {
+      "file": "src\\app\\about\\page.tsx",
+      "statement": "import { Grid } from '@astryxdesign/core/Grid'"
+    },
+    {
+      "file": "src\\app\\about\\page.tsx",
+      "statement": "import { Heading, Text } from '@astryxdesign/core/Text'"
+    },
+    {
+      "file": "src\\app\\about\\page.tsx",
+      "statement": "import { Button } from '@astryxdesign/core/Button'"
+    },
+    {
+      "file": "src\\app\\about\\page.tsx",
+      "statement": "import { Divider } from '@astryxdesign/core/Divider'"
+    },
+    {
+      "file": "src\\app\\form-two-column\\page.tsx",
+      "statement": "import { useState } from 'react'; import { Section } from '@astryxdesign/core/Section'"
+    },
+    {
+      "file": "src\\app\\form-two-column\\page.tsx",
+      "statement": "import { Card } from '@astryxdesign/core/Card'"
+    },
+    {
+      "file": "src\\app\\form-two-column\\page.tsx",
+      "statement": "import { VStack } from '@astryxdesign/core/Layout'"
+    },
+    {
+      "file": "src\\app\\form-two-column\\page.tsx",
+      "statement": "import { Text } from '@astryxdesign/core/Text'"
+    },
+    {
+      "file": "src\\app\\form-two-column\\page.tsx",
+      "statement": "import { Button } from '@astryxdesign/core/Button'"
+    },
+    {
+      "file": "src\\app\\form-two-column\\page.tsx",
+      "statement": "import { Divider } from '@astryxdesign/core/Divider'"
+    },
+    {
+      "file": "src\\app\\form-two-column\\page.tsx",
+      "statement": "import { TextInput } from '@astryxdesign/core/TextInput'"
+    },
+    {
+      "file": "src\\app\\form-two-column\\page.tsx",
+      "statement": "import { TextArea } from '@astryxdesign/core/TextArea'"
+    },
+    {
+      "file": "src\\app\\form-two-column\\page.tsx",
+      "statement": "import { Typeahead } from '@astryxdesign/core/Typeahead'"
+    },
+    {
+      "file": "src\\app\\form-two-column\\page.tsx",
+      "statement": "import type { SearchableItem, SearchSource, } from '@astryxdesign/core/Typeahead'"
+    },
+    {
+      "file": "src\\app\\login\\page.tsx",
+      "statement": "import { useState } from 'react'; import { useRouter } from 'next/navigation'; import { Section } from '@astryxdesign/core/Section'"
+    },
+    {
+      "file": "src\\app\\login\\page.tsx",
+      "statement": "import { Card } from '@astryxdesign/core/Card'"
+    },
+    {
+      "file": "src\\app\\login\\page.tsx",
+      "statement": "import { VStack } from '@astryxdesign/core/Layout'"
+    },
+    {
+      "file": "src\\app\\login\\page.tsx",
+      "statement": "import { Text } from '@astryxdesign/core/Text'"
+    },
+    {
+      "file": "src\\app\\login\\page.tsx",
+      "statement": "import { Button } from '@astryxdesign/core/Button'"
+    },
+    {
+      "file": "src\\app\\login\\page.tsx",
+      "statement": "import { Link } from '@astryxdesign/core/Link'"
+    },
+    {
+      "file": "src\\app\\login\\page.tsx",
+      "statement": "import { TextInput } from '@astryxdesign/core/TextInput'"
+    },
+    {
+      "file": "src\\app\\login\\page.tsx",
+      "statement": "import { Divider } from '@astryxdesign/core/Divider'"
+    },
+    {
+      "file": "src\\app\\page.tsx",
+      "statement": "import './page.css'; import { Card } from '@astryxdesign/core/Card'"
+    },
+    {
+      "file": "src\\app\\page.tsx",
+      "statement": "import { VStack } from '@astryxdesign/core/Layout'"
+    },
+    {
+      "file": "src\\app\\page.tsx",
+      "statement": "import { Text } from '@astryxdesign/core/Text'"
+    },
+    {
+      "file": "src\\app\\page.tsx",
+      "statement": "import { Button } from '@astryxdesign/core/Button'"
+    },
+    {
+      "file": "src\\app\\page.tsx",
+      "statement": "import { Section } from '@astryxdesign/core/Section'"
+    },
+    {
+      "file": "src\\app\\page.tsx",
+      "statement": "import { Divider } from '@astryxdesign/core/Divider'"
+    },
+    {
+      "file": "src\\app\\page.tsx",
+      "statement": "import { Grid } from '@astryxdesign/core/Grid'"
+    },
+    {
+      "file": "src\\app\\page.tsx",
+      "statement": "import { Icon } from '@astryxdesign/core/Icon'"
+    },
+    {
+      "file": "src\\app\\pagea.js",
+      "statement": "import './page.css'; import Header from '../components/layout/Header'; import { Carousel } from '@astryxdesign/core/Carousel'"
+    },
+    {
+      "file": "src\\app\\pagea.js",
+      "statement": "import { Card } from '@astryxdesign/core/Card'"
+    },
+    {
+      "file": "src\\app\\pagea.js",
+      "statement": "import { VStack } from '@astryxdesign/core/Layout'"
+    },
+    {
+      "file": "src\\app\\pagea.js",
+      "statement": "import { Text } from '@astryxdesign/core/Text'"
+    },
+    {
+      "file": "src\\app\\pagea.js",
+      "statement": "import { Button } from '@astryxdesign/core/Button'"
+    },
+    {
+      "file": "src\\app\\pagea.js",
+      "statement": "import { Section } from '@astryxdesign/core/Section'"
+    },
+    {
+      "file": "src\\app\\pagea.js",
+      "statement": "import { Divider } from '@astryxdesign/core/Divider'"
+    },
+    {
+      "file": "src\\app\\pagea.js",
+      "statement": "import { Grid } from '@astryxdesign/core/Grid'"
+    },
+    {
+      "file": "src\\app\\profile\\page.tsx",
+      "statement": "import { useEffect, useState } from 'react'; import { useRouter } from 'next/navigation'; import Header from '../../components/layout/Header'; import { Center } from '@astryxdesign/core/Center'"
+    },
+    {
+      "file": "src\\app\\profile\\page.tsx",
+      "statement": "import { Section } from '@astryxdesign/core/Section'"
+    },
+    {
+      "file": "src\\app\\profile\\page.tsx",
+      "statement": "import { Card } from '@astryxdesign/core/Card'"
+    },
+    {
+      "file": "src\\app\\profile\\page.tsx",
+      "statement": "import { VStack } from '@astryxdesign/core/Layout'"
+    },
+    {
+      "file": "src\\app\\profile\\page.tsx",
+      "statement": "import { Text } from '@astryxdesign/core/Text'"
+    },
+    {
+      "file": "src\\app\\profile\\page.tsx",
+      "statement": "import { Divider } from '@astryxdesign/core/Divider'"
+    },
+    {
+      "file": "src\\app\\profile\\page.tsx",
+      "statement": "import { Button } from '@astryxdesign/core/Button'"
+    },
+    {
+      "file": "src\\app\\profile\\page.tsx",
+      "statement": "import { Avatar } from '@astryxdesign/core/Avatar'"
+    },
+    {
+      "file": "src\\app\\services\\page.tsx",
+      "statement": "import { Section } from '@astryxdesign/core/Section'"
+    },
+    {
+      "file": "src\\app\\services\\page.tsx",
+      "statement": "import { Card } from '@astryxdesign/core/Card'"
+    },
+    {
+      "file": "src\\app\\services\\page.tsx",
+      "statement": "import { VStack } from '@astryxdesign/core/Layout'"
+    },
+    {
+      "file": "src\\app\\services\\page.tsx",
+      "statement": "import { Grid } from '@astryxdesign/core/Grid'"
+    },
+    {
+      "file": "src\\app\\services\\page.tsx",
+      "statement": "import { Text } from '@astryxdesign/core/Text'"
+    },
+    {
+      "file": "src\\app\\services\\page.tsx",
+      "statement": "import { Button } from '@astryxdesign/core/Button'"
+    },
+    {
+      "file": "src\\app\\services\\page.tsx",
+      "statement": "import { Divider } from '@astryxdesign/core/Divider'"
+    },
+    {
+      "file": "src\\components\\layout\\Footer.tsx",
+      "statement": "import { Section } from '@astryxdesign/core/Section'"
+    },
+    {
+      "file": "src\\components\\layout\\Footer.tsx",
+      "statement": "import { Grid } from '@astryxdesign/core/Grid'"
+    },
+    {
+      "file": "src\\components\\layout\\Footer.tsx",
+      "statement": "import { VStack } from '@astryxdesign/core/Layout'"
+    },
+    {
+      "file": "src\\components\\layout\\Footer.tsx",
+      "statement": "import { Text } from '@astryxdesign/core/Text'"
+    },
+    {
+      "file": "src\\components\\layout\\Footer.tsx",
+      "statement": "import { Divider } from '@astryxdesign/core/Divider'"
+    },
+    {
+      "file": "src\\components\\layout\\Footer.tsx",
+      "statement": "import { Link } from '@astryxdesign/core/Link'"
+    },
+    {
+      "file": "src\\components\\layout\\Footer.tsx",
+      "statement": "import { Heading } from '@astryxdesign/core/Heading'"
+    },
+    {
+      "file": "src\\components\\layout\\Header.tsx",
+      "statement": "import { useEffect, useState } from 'react'; import { useRouter, usePathname } from 'next/navigation'; import { TopNav, TopNavHeading, TopNavItem, } from '@astryxdesign/core/TopNav'"
+    },
+    {
+      "file": "src\\components\\layout\\Header.tsx",
+      "statement": "import { NavIcon } from '@astryxdesign/core/NavIcon'"
+    },
+    {
+      "file": "src\\components\\layout\\Header.tsx",
+      "statement": "import { Button } from '@astryxdesign/core/Button'"
+    },
+    {
+      "file": "src\\components\\layout\\Header.tsx",
+      "statement": "import { Icon } from '@astryxdesign/core/Icon'"
+    },
+    {
+      "file": "src\\components\\layout\\Header.tsx",
+      "statement": "import { Section } from '@astryxdesign/core/Section'"
+    }
+  ],
+  "findings": [
+    {
+      "file": "src\\app\\layout.js",
+      "line": 27,
+      "element": "body",
+      "suggestedAstryxComponents": [],
+      "reason": "Native HTML <body> detected. Review whether this native element is necessary."
+    },
+    {
+      "file": "src\\app\\layout.js",
+      "line": 23,
+      "element": "html",
+      "suggestedAstryxComponents": [],
+      "reason": "Native HTML <html> detected. Review whether this native element is necessary."
+    }
+  ]
+}
